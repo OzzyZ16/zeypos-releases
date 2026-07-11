@@ -1,1 +1,1 @@
-{"version":"1.0.4","updaterUrl":"https://github.com/OzzyZ16/zeypos-releases/releases/download/v1.0.4/ZeyPosUpdater.exe","releaseNotes":"Terazi entegrasyonu duzeltmeleri: ComboBox acilmasi, baglanti testi, kategori PLU, validasyon, PLU listesi, async bug fix'leri, switching kitlenmesi"}
+{"version":"1.0.5","updaterUrl":"https://github.com/OzzyZ16/zeypos-releases/releases/download/v1.0.5/ZeyPosUpdater.exe","releaseNotes":"Terazi hata ayiklama (try-catch, async duzeltmeler, null reference fix)"}
